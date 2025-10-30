@@ -1,1 +1,3 @@
-# magic_wand
+# Magic Wand
+
+IR tracking capstone project
